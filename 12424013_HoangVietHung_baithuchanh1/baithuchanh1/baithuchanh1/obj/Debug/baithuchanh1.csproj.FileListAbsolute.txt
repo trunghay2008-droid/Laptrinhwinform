@@ -1,0 +1,42 @@
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\bin\Debug\baithuchanh1.exe.config
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\bin\Debug\baithuchanh1.exe
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\bin\Debug\baithuchanh1.pdb
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.csproj.AssemblyReference.cache
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.Form1.resources
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.Properties.Resources.resources
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.csproj.GenerateResource.cache
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.csproj.CoreCompileInputs.cache
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.exe
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.pdb
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai2.resources
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai4.resources
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai5.resources
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai6.resources
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.Bai7.resources
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai8.resources
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai9.resources
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai10.resources
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai11.resources
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai12.resources
+C:\Users\thang\OneDrive\New folder (2)\winform\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai3.resources
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\bin\Debug\baithuchanh1.exe.config
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\bin\Debug\baithuchanh1.exe
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\bin\Debug\baithuchanh1.pdb
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.csproj.AssemblyReference.cache
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.form1.resources
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai10.resources
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai11.resources
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai12.resources
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai2.resources
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai3.resources
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai4.resources
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai6.resources
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.Bai7.resources
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai8.resources
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai9.resources
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.bai5.resources
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.Properties.Resources.resources
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.csproj.GenerateResource.cache
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.csproj.CoreCompileInputs.cache
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.exe
+C:\Users\thang\OneDrive\New folder (2)\Hình ảnh\Screenshots\12424013_HoangVietHung_baithuchanh1\baithuchanh1\baithuchanh1\obj\Debug\baithuchanh1.pdb
