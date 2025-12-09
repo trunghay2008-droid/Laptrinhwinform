@@ -1,0 +1,14 @@
+C:\Users\thang\OneDrive\New folder (2)\winform\baiTH2\baiTH2\bin\Debug\baiTH2.exe.config
+C:\Users\thang\OneDrive\New folder (2)\winform\baiTH2\baiTH2\bin\Debug\baiTH2.exe
+C:\Users\thang\OneDrive\New folder (2)\winform\baiTH2\baiTH2\bin\Debug\baiTH2.pdb
+C:\Users\thang\OneDrive\New folder (2)\winform\baiTH2\baiTH2\obj\Debug\baiTH2.csproj.AssemblyReference.cache
+C:\Users\thang\OneDrive\New folder (2)\winform\baiTH2\baiTH2\obj\Debug\baiTH2.bai1.resources
+C:\Users\thang\OneDrive\New folder (2)\winform\baiTH2\baiTH2\obj\Debug\baiTH2.Properties.Resources.resources
+C:\Users\thang\OneDrive\New folder (2)\winform\baiTH2\baiTH2\obj\Debug\baiTH2.csproj.GenerateResource.cache
+C:\Users\thang\OneDrive\New folder (2)\winform\baiTH2\baiTH2\obj\Debug\baiTH2.csproj.CoreCompileInputs.cache
+C:\Users\thang\OneDrive\New folder (2)\winform\baiTH2\baiTH2\obj\Debug\baiTH2.exe
+C:\Users\thang\OneDrive\New folder (2)\winform\baiTH2\baiTH2\obj\Debug\baiTH2.pdb
+C:\Users\thang\OneDrive\New folder (2)\winform\baiTH2\baiTH2\obj\Debug\baiTH2.bai2.resources
+C:\Users\thang\OneDrive\New folder (2)\winform\baiTH2\baiTH2\obj\Debug\baiTH2.bai3.resources
+C:\Users\thang\OneDrive\New folder (2)\winform\baiTH2\baiTH2\obj\Debug\baiTH2.bai4.resources
+C:\Users\thang\OneDrive\New folder (2)\winform\baiTH2\baiTH2\obj\Debug\baiTH2.bai5.resources
