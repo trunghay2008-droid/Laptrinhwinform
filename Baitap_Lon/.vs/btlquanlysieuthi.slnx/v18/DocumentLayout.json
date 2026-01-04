@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|c:\\users\\thang\\onedrive\\new folder (2)\\winformgit\\baitap_lon\\btlquanlysieuthi\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|c:\\users\\thang\\onedrive\\new folder (2)\\winformgit\\baitap_lon\\btlquanlysieuthi\\formb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\formb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|c:\\users\\thang\\onedrive\\new folder (2)\\winformgit\\baitap_lon\\btlquanlysieuthi\\formb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\formb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|c:\\users\\thang\\onedrive\\new folder (2)\\winformgit\\baitap_lon\\btlquanlysieuthi\\formc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\formc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\formc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\formc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|c:\\users\\thang\\onedrive\\new folder (2)\\winformgit\\baitap_lon\\btlquanlysieuthi\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|c:\\users\\thang\\onedrive\\new folder (2)\\winformgit\\baitap_lon\\btlquanlysieuthi\\frmdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\frmdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\frmdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|c:\\users\\thang\\onedrive\\new folder (2)\\winformgit\\baitap_lon\\btlquanlysieuthi\\frmqlkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\frmqlkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmqlkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\frmqlkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|c:\\users\\thang\\onedrive\\new folder (2)\\winformgit\\baitap_lon\\btlquanlysieuthi\\frmdoimk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\frmdoimk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|c:\\users\\thang\\onedrive\\new folder (2)\\winformgit\\baitap_lon\\btlquanlysieuthi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|c:\\users\\thang\\onedrive\\new folder (2)\\winformgit\\baitap_lon\\btlquanlysieuthi\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|c:\\users\\thang\\onedrive\\new folder (2)\\winformgit\\baitap_lon\\btlquanlysieuthi\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|c:\\users\\thang\\onedrive\\new folder (2)\\winformgit\\baitap_lon\\btlquanlysieuthi\\formb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\formb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|c:\\users\\thang\\onedrive\\new folder (2)\\winformgit\\baitap_lon\\btlquanlysieuthi\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|c:\\users\\thang\\onedrive\\new folder (2)\\winformgit\\baitap_lon\\btlquanlysieuthi\\forma.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\forma.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|c:\\users\\thang\\onedrive\\new folder (2)\\winformgit\\baitap_lon\\btlquanlysieuthi\\frmdangky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC41AD58-5385-183D-9303-9D629714CD13}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\frmdangky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EDB79-133B-47AE-B50E-A1B935ECAF91}|btlquanlysieuthi\\btlquanlysieuthi.csproj|C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\formb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A6EDB79-133B-47AE-B50E-A1B935ECAF91}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\formb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EDB79-133B-47AE-B50E-A1B935ECAF91}|btlquanlysieuthi\\btlquanlysieuthi.csproj|C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\formc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A6EDB79-133B-47AE-B50E-A1B935ECAF91}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\formc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EDB79-133B-47AE-B50E-A1B935ECAF91}|btlquanlysieuthi\\btlquanlysieuthi.csproj|C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A6EDB79-133B-47AE-B50E-A1B935ECAF91}|btlquanlysieuthi\\btlquanlysieuthi.csproj|solutionrelative:btlquanlysieuthi\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmqlkho.cs",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmqlkho.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\frmqlkho.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmqlkho.cs",
+              "RelativeToolTip": "btlquanlysieuthi\\frmqlkho.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAmwM0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T16:46:16.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormA.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\FormA.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormA.cs [Design]",
+              "RelativeToolTip": "btlquanlysieuthi\\FormA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T09:11:37.157Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmdoimk.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmdoimk.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\frmdoimk.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmdoimk.cs [Design]",
+              "RelativeToolTip": "btlquanlysieuthi\\frmdoimk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T08:54:07.939Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmdoimk.cs",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmdoimk.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\frmdoimk.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmdoimk.cs",
+              "RelativeToolTip": "btlquanlysieuthi\\frmdoimk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T09:29:50.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormC.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\FormC.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormC.cs [Design]",
+              "RelativeToolTip": "btlquanlysieuthi\\FormC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T05:40:18.304Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormC.cs",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormC.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\FormC.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormC.cs",
+              "RelativeToolTip": "btlquanlysieuthi\\FormC.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAwwIQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T09:17:47.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormB.cs",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormB.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\FormB.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormB.cs",
+              "RelativeToolTip": "btlquanlysieuthi\\FormB.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T15:48:54.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmMenu.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmMenu.cs",
+              "RelativeToolTip": "btlquanlysieuthi\\frmMenu.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAADwv3oAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T10:54:44.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormB.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormB.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\FormB.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormB.cs [Design]",
+              "RelativeToolTip": "btlquanlysieuthi\\FormB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T05:40:25.515Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormA.cs",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormA.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\FormA.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormA.cs",
+              "RelativeToolTip": "btlquanlysieuthi\\FormA.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAUwLsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T07:29:29.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmqlkho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmqlkho.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\frmqlkho.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmqlkho.cs [Design]",
+              "RelativeToolTip": "btlquanlysieuthi\\frmqlkho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T16:33:09.811Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmMenu.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmMenu.cs [Design]",
+              "RelativeToolTip": "btlquanlysieuthi\\frmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T09:02:52.884Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmdoimk.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmdoimk.Designer.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\frmdoimk.Designer.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmdoimk.Designer.cs",
+              "RelativeToolTip": "btlquanlysieuthi\\frmdoimk.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T09:16:26.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormB.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormB.Designer.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\FormB.Designer.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormB.Designer.cs",
+              "RelativeToolTip": "btlquanlysieuthi\\FormB.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T08:50:39.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmlogin.cs",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmlogin.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\frmlogin.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmlogin.cs",
+              "RelativeToolTip": "btlquanlysieuthi\\frmlogin.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T05:40:53.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormA.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormA.Designer.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\FormA.Designer.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormA.Designer.cs",
+              "RelativeToolTip": "btlquanlysieuthi\\FormA.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T04:20:56.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\Program.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\Program.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\Program.cs",
+              "RelativeToolTip": "btlquanlysieuthi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T05:09:07.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmMenu.Designer.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\frmMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmMenu.Designer.cs",
+              "RelativeToolTip": "btlquanlysieuthi\\frmMenu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T09:11:49.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmdangky.cs",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmdangky.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\frmdangky.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmdangky.cs",
+              "RelativeToolTip": "btlquanlysieuthi\\frmdangky.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAowI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:58:22.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmdangky.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmdangky.Designer.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\frmdangky.Designer.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmdangky.Designer.cs",
+              "RelativeToolTip": "btlquanlysieuthi\\frmdangky.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwGUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T17:09:00.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmlogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmlogin.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\frmlogin.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winform\\btlquanlysieuthi\\btlquanlysieuthi\\frmlogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\winform\\btlquanlysieuthi\\btlquanlysieuthi\\frmlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T05:40:47.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmdangky.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\frmdangky.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\frmdangky.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winform\\btlquanlysieuthi\\btlquanlysieuthi\\frmdangky.cs [Design]",
+              "RelativeToolTip": "..\\..\\winform\\btlquanlysieuthi\\btlquanlysieuthi\\frmdangky.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:51:52.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormA.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\FormA.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winform\\btlquanlysieuthi\\btlquanlysieuthi\\FormA.cs [Design]",
+              "RelativeToolTip": "..\\..\\winform\\btlquanlysieuthi\\btlquanlysieuthi\\FormA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T05:45:52.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormC.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\FormC.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winform\\btlquanlysieuthi\\btlquanlysieuthi\\FormC.cs [Design]",
+              "RelativeToolTip": "..\\..\\winform\\btlquanlysieuthi\\btlquanlysieuthi\\FormC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T04:25:43.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormB.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winformgit\\Baitap_Lon\\btlquanlysieuthi\\FormB.cs",
+              "RelativeDocumentMoniker": "btlquanlysieuthi\\FormB.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winform\\btlquanlysieuthi\\btlquanlysieuthi\\FormB.cs [Design]",
+              "RelativeToolTip": "..\\..\\winform\\btlquanlysieuthi\\btlquanlysieuthi\\FormB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T04:25:30.562Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

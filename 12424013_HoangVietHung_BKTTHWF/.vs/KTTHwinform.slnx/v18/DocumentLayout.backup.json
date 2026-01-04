@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winform\\12424013_HoangVietHung_BKTTHWF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4F7BC9-5F6C-829E-E7EB-497DE663BEB8}|KTTHwinform\\KTTHwinform.csproj|c:\\users\\thang\\onedrive\\new folder (2)\\winform\\12424013_hoangviethung_bktthwf\\ktthwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4F7BC9-5F6C-829E-E7EB-497DE663BEB8}|KTTHwinform\\KTTHwinform.csproj|solutionrelative:ktthwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4F7BC9-5F6C-829E-E7EB-497DE663BEB8}|KTTHwinform\\KTTHwinform.csproj|C:\\Users\\thang\\OneDrive\\New folder (2)\\winform\\12424013_HoangVietHung_BKTTHWF\\ktthwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA4F7BC9-5F6C-829E-E7EB-497DE663BEB8}|KTTHwinform\\KTTHwinform.csproj|solutionrelative:ktthwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4F7BC9-5F6C-829E-E7EB-497DE663BEB8}|KTTHwinform\\KTTHwinform.csproj|c:\\users\\thang\\onedrive\\new folder (2)\\winform\\12424013_hoangviethung_bktthwf\\ktthwinform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4F7BC9-5F6C-829E-E7EB-497DE663BEB8}|KTTHwinform\\KTTHwinform.csproj|solutionrelative:ktthwinform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4F7BC9-5F6C-829E-E7EB-497DE663BEB8}|KTTHwinform\\KTTHwinform.csproj|c:\\users\\thang\\onedrive\\new folder (2)\\winform\\12424013_hoangviethung_bktthwf\\ktthwinform\\ktthwinform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA4F7BC9-5F6C-829E-E7EB-497DE663BEB8}|KTTHwinform\\KTTHwinform.csproj|solutionrelative:ktthwinform\\ktthwinform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winform\\12424013_HoangVietHung_BKTTHWF\\KTTHwinform\\Form1.cs",
+              "RelativeDocumentMoniker": "KTTHwinform\\Form1.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winform\\12424013_HoangVietHung_BKTTHWF\\KTTHwinform\\Form1.cs",
+              "RelativeToolTip": "KTTHwinform\\Form1.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAADwv4UBAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:08:51.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winform\\12424013_HoangVietHung_BKTTHWF\\KTTHwinform\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "KTTHwinform\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winform\\12424013_HoangVietHung_BKTTHWF\\KTTHwinform\\Form1.Designer.cs",
+              "RelativeToolTip": "KTTHwinform\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:03:51.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KTTHwinform.csproj",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winform\\12424013_HoangVietHung_BKTTHWF\\KTTHwinform\\KTTHwinform.csproj",
+              "RelativeDocumentMoniker": "KTTHwinform\\KTTHwinform.csproj",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winform\\12424013_HoangVietHung_BKTTHWF\\KTTHwinform\\KTTHwinform.csproj",
+              "RelativeToolTip": "KTTHwinform\\KTTHwinform.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-29T08:00:38.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winform\\12424013_HoangVietHung_BKTTHWF\\KTTHwinform\\Form1.cs",
+              "RelativeDocumentMoniker": "KTTHwinform\\Form1.cs",
+              "ToolTip": "C:\\Users\\thang\\OneDrive\\New folder (2)\\winform\\KTTHwinform\\KTTHwinform\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\KTTHwinform\\KTTHwinform\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T08:44:50.076Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
