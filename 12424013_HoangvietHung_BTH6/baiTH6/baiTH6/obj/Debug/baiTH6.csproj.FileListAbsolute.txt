@@ -1,0 +1,12 @@
+D:\Bai C#\bài Window Forn\bai TH\baiTH6\baiTH6\obj\Debug\baiTH6.csproj.AssemblyReference.cache
+D:\Bai C#\bài Window Forn\bai TH\baiTH6\baiTH6\obj\Debug\baiTH6.csproj.ResolveComReference.cache
+D:\Bai C#\bài Window Forn\bai TH\baiTH6\baiTH6\obj\Debug\QuanLyDiem.Form1.resources
+D:\Bai C#\bài Window Forn\bai TH\baiTH6\baiTH6\obj\Debug\baiTH6.Properties.Resources.resources
+D:\Bai C#\bài Window Forn\bai TH\baiTH6\baiTH6\obj\Debug\baiTH6.csproj.GenerateResource.cache
+D:\Bai C#\bài Window Forn\bai TH\baiTH6\baiTH6\obj\Debug\baiTH6.csproj.CoreCompileInputs.cache
+C:\Users\thang\OneDrive\New folder (2)\winformgit\12424013_HoangvietHung_BTH6\baiTH6\baiTH6\obj\Debug\baiTH6.csproj.AssemblyReference.cache
+C:\Users\thang\OneDrive\New folder (2)\winformgit\12424013_HoangvietHung_BTH6\baiTH6\baiTH6\obj\Debug\baiTH6.csproj.ResolveComReference.cache
+C:\Users\thang\OneDrive\New folder (2)\winformgit\12424013_HoangvietHung_BTH6\baiTH6\baiTH6\obj\Debug\QuanLyDiem.Form1.resources
+C:\Users\thang\OneDrive\New folder (2)\winformgit\12424013_HoangvietHung_BTH6\baiTH6\baiTH6\obj\Debug\baiTH6.Properties.Resources.resources
+C:\Users\thang\OneDrive\New folder (2)\winformgit\12424013_HoangvietHung_BTH6\baiTH6\baiTH6\obj\Debug\baiTH6.csproj.GenerateResource.cache
+C:\Users\thang\OneDrive\New folder (2)\winformgit\12424013_HoangvietHung_BTH6\baiTH6\baiTH6\obj\Debug\baiTH6.csproj.CoreCompileInputs.cache
