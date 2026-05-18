@@ -1,0 +1,15 @@
+2026/05/16-23:43:36.731 42c4 Reusing MANIFEST C:\Users\thang\OneDrive\New folder (2)\winform\btlquanlysieuthi\btlquanlysieuthi\bin\Debug\net8.0-windows\btlquanlysieuthi.exe.WebView2\EBWebView\Default\WebStorage\2\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2026/05/16-23:43:36.732 42c4 Recovering log #37
+2026/05/16-23:43:36.733 42c4 Reusing old log C:\Users\thang\OneDrive\New folder (2)\winform\btlquanlysieuthi\btlquanlysieuthi\bin\Debug\net8.0-windows\btlquanlysieuthi.exe.WebView2\EBWebView\Default\WebStorage\2\IndexedDB\indexeddb.leveldb/000037.log 
+2026/05/16-23:43:36.734 42c4 Delete type=2 #35
+2026/05/16-23:43:36.749 5f14 Level-0 table #42: started
+2026/05/16-23:43:36.752 5f14 Level-0 table #42: 7043 bytes OK
+2026/05/16-23:43:36.754 5f14 Delete type=0 #37
+2026/05/16-23:43:36.755 5f14 Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/05/16-23:43:36.756 42c4 Manual compaction at level-1 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 1681 : 1
+2026/05/16-23:43:36.756 42c4 Compacting 1@1 + 1@2 files
+2026/05/16-23:43:36.758 42c4 Generated table #43@1: 59 keys, 1395 bytes
+2026/05/16-23:43:36.758 42c4 Compacted 1@1 + 1@2 files => 1395 bytes
+2026/05/16-23:43:36.759 42c4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/05/16-23:43:36.760 42c4 Delete type=2 #42
+2026/05/16-23:43:36.760 42c4 Manual compaction at level-1 from '\x00\x0e\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 1681 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
